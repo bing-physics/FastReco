@@ -41,6 +41,8 @@
 #include "evtinfo.h"
 #include "musep.h"
 #include "share.h"
+#include "TObjString.h"
+
 using std::cout;
 using std::endl;
 
