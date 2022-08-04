@@ -1,0 +1,7 @@
+build/
+run.sh
+*.txt
+!CMakeLists.txt
+*.root
+bin/
+lib/
